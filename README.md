@@ -35,8 +35,8 @@ export GEMINI_API_KEY="your_gemini_api_key_here"
 
 How to Run
 Start the Streamlit application from your terminal:
+streamlit run "the agent.py"
 
-streamlit run app.py
 Open the local URL provided in your terminal (usually http://localhost:8501) in your browser.
 
 Use the sidebar to upload files or documents, enter your prompt, and trigger the multi-agent debate and consensus pipeline.
