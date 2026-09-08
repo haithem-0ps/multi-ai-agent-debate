@@ -1,0 +1,5 @@
+streamlit
+pillow
+google-genai
+groq
+requests
